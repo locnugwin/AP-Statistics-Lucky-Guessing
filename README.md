@@ -18,6 +18,6 @@ The question is the following:
 For context, the question that preceded is as follows:
 > You take a quiz with 6 multiple
 > choice questions. After you studied, you estimated that
-> you would have about an 80% chance of getting any indi-
-> vidual question right. What are your chances of getting
+> you would have about an 80% chance of getting any individual
+> question right. What are your chances of getting
 > them all right? Use at least 20 trials.
