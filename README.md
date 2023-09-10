@@ -1,4 +1,4 @@
-# Lucky guessing?
+# Lucky Guessing?
 ---
 This program is meant to solve a problem taken from the 
 textbook *Stats Modeling The World* that I used while I 
